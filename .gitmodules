@@ -1,9 +1,24 @@
 [submodule "rule-engine"]
 	path = rule-engine
-	url = git@github.com:jetlinks/rule-engine.git
+	url = git@github.com:aping-source/rule-engine.git
+[submodule "jetlinks-community"]
+	path = jetlinks-community
+	url = git@github.com:aping-source/jetlinks-community.git
 [submodule "jetlinks-core"]
 	path = jetlinks-core
-	url = git@github.com:jetlinks/jetlinks-core.git
+	url = git@github.com:aping-source/jetlinks-core.git
 [submodule "jetlinks-supports"]
 	path = jetlinks-supports
-	url = git@github.com:jetlinks/jetlinks-supports.git
+	url = git@github.com:aping-source/jetlinks-supports.git
+[submodule "reactor-ql"]
+	path = reactor-ql
+	url = git@github.com:aping-source/reactor-ql.git
+[submodule "jetlinks-sdk"]
+	path = jetlinks-sdk
+	url = git@github.com:aping-source/jetlinks-sdk.git
+[submodule "device-simulator"]
+	path = device-simulator
+	url = git@github.com:aping-source/device-simulator.git
+[submodule "jetlinks-plugin"]
+	path = jetlinks-plugin
+	url = git@github.com:aping-source/jetlinks-plugin.git
